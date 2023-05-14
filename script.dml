@@ -1,0 +1,25 @@
+--CLIENTI
+insert into clienti(nume_client, nume_utilizator, parola, tip_utilizator) values ('Hriscu Stefana', 'StefanaH17', 'Sefy@sefy17', 'Administrator');
+insert into clienti(nume_client, nume_utilizator, parola, tip_utilizator) values ('Pislariu Andreea', 'AndreeaP30', 'Mitu_tsucki30', 'Utilizator');
+insert into clienti(nume_client, nume_utilizator, parola, tip_utilizator) values ('Ganea Luiza', 'LuissaG23', 'Zoro@sefu23', 'Utilizator');
+insert into clienti(nume_client, nume_utilizator, parola, tip_utilizator) values ('Rosca Ana Maria', 'Anzertrop22', 'Tomas@frumosu22', 'Utilizator');
+insert into clienti(nume_client, nume_utilizator, parola, tip_utilizator) values ('Husman Carla', 'Carlita26', 'Koreea@desud05', 'Utilizator');
+insert into clienti(nume_client, nume_utilizator, parola, tip_utilizator) values ('Barbaliu Bianca', 'BiancaB19', 'Papusa_barbie03', 'Utilizator');
+insert into clienti(nume_client, nume_utilizator, parola, tip_utilizator) values ('Aluchiene Georgiana', 'GeorgianaA19', 'Mojo_Jojo04', 'Utilizator');
+
+--DETALII CLIENT
+/*insert into detalii_client(numar_telefon, adresa_client, email_client, cod_postal, id_client) values ('0743376692','Str Vasile Lup Nr 87', 'hris_stef@yahoo.com', '700319', gaseste_id_dupa_username('StefanaH17'));
+insert into detalii_client(numar_telefon, adresa_client, email_client, cod_postal, id_client) values ('0745783345','Str Crinului Nr 12', 'pi.andreea@yahoo.com', '700456', gaseste_id_dupa_username('AndreeaP30'));
+insert into detalii_client(numar_telefon, adresa_client, email_client, cod_postal, id_client) values ('0751981525','Str Dorului Nr 46', 'ganealuiza@yahoo.com', '700412', gaseste_id_dupa_username('LuissaG23'));
+insert into detalii_client(numar_telefon, adresa_client, email_client, cod_postal, id_client) values ('0732675126','Str Ion Creng Nr 35', 'ros.ana22@gmail.com', '700323', gaseste_id_dupa_username('Anzertrop22'));
+insert into detalii_client(numar_telefon, adresa_client, email_client, cod_postal, id_client) values ('0744567686','Str Ion Brad Nr 92', 'hus_carla@yahoo.com', '700312', gaseste_id_dupa_username('Carlita26'));
+insert into detalii_client(numar_telefon, adresa_client, email_client, cod_postal, id_client) values ('0736561412','Str Gandului Nr 27', 'biancab19@gmail.com', '700123', gaseste_id_dupa_username('BiancaB19'));
+insert into detalii_client(numar_telefon, adresa_client, email_client, cod_postal, id_client) values ('0746523222','Str Mihai Cod Nr 67', 'alu_geo19@yahoo.com', '700256', gaseste_id_dupa_username('GeorgianaA19'));
+*/
+
+--PRODUSE
+/*INSERT INTO produse(nume_produs, pret_produs, cantitate_disponibila) VALUES ('Tort', 100, 50);
+INSERT INTO produse(nume_produs, pret_produs, cantitate_disponibila) VALUES ('ECLER', 20, 40);
+*/
+--BONUSURI
+--insert into bonusuri(id_bonus, tip_cadou) values (1,'ecler');

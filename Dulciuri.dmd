@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Dulciuri" id="032968D9-713D-3B53-4E8A-B0E9F7FEA924" version="3.5">
+<createdBy>Admin</createdBy>
+<createdTime>2022-11-09 18:37:35 UTC</createdTime>
+<ownerDesignName>Dulciuri</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>032968D9-713D-3B53-4E8A-B0E9F7FEA924</designId>
+</OSDM_Design>
